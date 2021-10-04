@@ -4,7 +4,7 @@
 - [Towards Active Robotic Vision in Agriculture: A Deep Learning Approach to Visual Servoing in Occluded and Unstructured Protected Cropping Environments](summary_Deep_3DMTS.md)
 
 ## RL Manipulation
-- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning](summary_learn_handeye_coordination_grasping.md)
+- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](summary_learn_handeye_coordination_grasping.md)
 
 
 ## Dexterous Manipulation
@@ -17,9 +17,6 @@
 - [On Dexterity and Dexterous Manipulation](https://ieeexplore.ieee.org/document/6088576)
 - [A Hand-Centric Classification of Human and Robot Dexterous Manipulation](https://www.eng.yale.edu/grablab/pubs/Bullock_TOH2013_1.pdf)
 - [Deriving Dexterous, In-Hand Manipulation Primitives for Adaptive Robot Hands](https://ieeexplore.ieee.org/document/8206014)
-
-## Pick-and-Place
-- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/abs/1603.02199)
 
 ## Pushing Manipulation
 - [Stable Prehensile Pushing: In-Hand Manipulation with Alternating Sticking Contacts](https://ieeexplore.ieee.org/document/8461243)
