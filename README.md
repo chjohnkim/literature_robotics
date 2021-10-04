@@ -1,7 +1,7 @@
 # literature_robotics
 
 ## Agricultural Robotics
-- [Towards Active Robotic Vision in Agriculture: A Deep Learning Approach to Visual Servoing in Occluded and Unstructured Protected Cropping Environments](https://arxiv.org/abs/1908.01885?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)
+- [Towards Active Robotic Vision in Agriculture: A Deep Learning Approach to Visual Servoing in Occluded and Unstructured Protected Cropping Environments](summary_Deep_3DMTS.md)
 
 ## RL Manipulation
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning](https://arxiv.org/abs/1603.02199)
