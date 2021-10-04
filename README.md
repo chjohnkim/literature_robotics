@@ -4,7 +4,7 @@
 - [Towards Active Robotic Vision in Agriculture: A Deep Learning Approach to Visual Servoing in Occluded and Unstructured Protected Cropping Environments](summary_Deep_3DMTS.md)
 
 ## RL Manipulation
-- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning](https://arxiv.org/abs/1603.02199)
+- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning](summary_learn_handeye_coordination_grasping.md)
 
 
 ## Dexterous Manipulation
