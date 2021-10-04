@@ -3,6 +3,7 @@
 ## Agricultural Robotics
 - [Towards Active Robotic Vision in Agriculture: A Deep Learning Approach to Visual Servoing in Occluded and Unstructured Protected Cropping Environments](summary_Deep_3DMTS.md)
 - [A Robust Illumination-Invariant Camera System for Agricultural Applications](summary_robust_illumination_invariant_camera.md)
+- [Visual 3D Reconstruction and Dynamic Simulation of Fruit Trees for Robotic Manipulation](3D_reconstruction_dynamic_simulation_trees.md)
 
 ## RL Manipulation
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](summary_learn_handeye_coordination_grasping.md)
